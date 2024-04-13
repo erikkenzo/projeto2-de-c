@@ -1,6 +1,6 @@
 //Projeto 2 de C
 
-//Erik Kenzo Hashizume
+//Erik Kenzo Hashizume RA 24.223.001-9
 //Gustavo Lima de Azevedo
 //Rafael Vianna Maistro RA-24223011-8
 
